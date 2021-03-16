@@ -1,4 +1,4 @@
-# mbblog
+# MB-Blog
 
 ## Instructions
 
