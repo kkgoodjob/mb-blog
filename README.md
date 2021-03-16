@@ -1,5 +1,9 @@
 # MB-Blog
 
+## Index of posts
+
+[2020-04-28](./posts/2020-04-28.md)
+
 ## Instructions
 
 - Create the post with name **YYYY-MM-DD.md** in the posts folder
