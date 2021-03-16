@@ -6,6 +6,14 @@
 - Create a corresponding folder YYYY-MM-DD for the images in /public/img/posts/
 - Save in /public/img/posts/YYYY-MM-DD the images for the post /posts/YYYY-MM-DD.md
 
+See an example as below
+```
+/posts/2020-04-28.md
+/public/img/posts/2020-04-28
+
+```
+
+
 For images in the post, use the following snippet
 
 ```
