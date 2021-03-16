@@ -2,6 +2,8 @@
 
 Repo for uploading the posts.
 
+** CONTACT US TO BE REGISTERED AS CONTRIBUTOR **
+
 ## Index of completed transfers
 
 [2020-04-28](./posts/2020-04-28.md)
