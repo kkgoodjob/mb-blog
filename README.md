@@ -2,9 +2,9 @@
 
 ## Instructions
 
-- Create the post with name YYYY-MM-DD.md in the posts folder
-- Create a corresponding folder YYYY-MM-DD for the images in /public/img/posts/
-- Save in /public/img/posts/YYYY-MM-DD the images for the post /posts/YYYY-MM-DD.md
+- Create the post with name **YYYY-MM-DD.md** in the posts folder
+- Create a corresponding folder **YYYY-MM-DD** for the images in /public/img/posts/
+- Save in /public/img/posts/**YYYY-MM-DD** the images for the post /posts/**YYYY-MM-DD.md**
 
 See an example as below
 
