@@ -2,15 +2,15 @@
 
 ## Instructions
 
-- Create the post with name YYYY-MM-DD.md in the posts folder
-- Create a corresponding folder YYYY-MM-DD for the images in /public/img/posts/
-- Save in /public/img/posts/YYYY-MM-DD the images for the post /posts/YYYY-MM-DD.md
+- Create the post with name **YYYY-MM-DD.md** in the posts folder
+- Create a corresponding folder **YYYY-MM-DD** for the images in /public/img/posts/
+- Save in /public/img/posts/**YYYY-MM-DD** the images for the post /posts/**YYYY-MM-DD.md**
 
 See an example as below
 
 [2020-04-28 post](https://github.com/ab22375/mb-blog/blob/main/posts/2020-04-28.md)
 
-[2020-04-28 img folder](https://github.com/ab22375/mb-blog/tree/main/public/img/2020-04-28)
+[2020-04-28 img folder](https://github.com/ab22375/mb-blog/tree/main/public/img/posts/2020-04-28)
 
 
 
