@@ -2,7 +2,10 @@
 
 Repo for uploading the posts.
 
-** CONTACT US TO BE REGISTERED AS CONTRIBUTOR **
+---
+**CONTACT US TO BE REGISTERED AS CONTRIBUTOR**
+---
+
 
 ## Index of completed transfers
 
