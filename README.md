@@ -7,11 +7,11 @@
 - Save in /public/img/posts/YYYY-MM-DD the images for the post /posts/YYYY-MM-DD.md
 
 See an example as below
-```
-/posts/2020-04-28.md
-/public/img/posts/2020-04-28
 
-```
+[2020-04-28 post](https://github.com/ab22375/mb-blog/blob/main/posts/2020-04-28.md)
+
+[2020-04-28 img folder](https://github.com/ab22375/mb-blog/blob/main/public/img/posts/2020-04-28)
+
 
 
 For images in the post, use the following snippet
