@@ -1,5 +1,7 @@
 # MB-Blog
 
+Repo for uploading the posts.
+
 ## Index of posts
 
 [2020-04-28](./posts/2020-04-28.md)
