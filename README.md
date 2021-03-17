@@ -15,7 +15,7 @@ ___
 - [2020-03-23](./posts/2020-03-23.md) [ [1](https://www.mbcrusher.com/ja/jp/お知らせ/news/ロータリースクリーニングバケットmb-hdsで何が処理できる？) ]
 
 
-## list of posts to transfer
+## ... posts to transfer
 
 
 | [2](https://www.mbcrusher.com/ja/jp/お知らせ/news/スキッドステアローダ、ホイールローダ、バックホーローダ-br-最大効果を得るための９つのポイント)
