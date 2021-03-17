@@ -5,8 +5,10 @@ Repo for uploading the posts.
 
 ## Index of completed transfers
 
-- [2020-04-28](./posts/2020-04-28.md)
-- [2020-03-23](./posts/2020-03-23.md) [ [1](https://www.mbcrusher.com/ja/jp/お知らせ/news/ロータリースクリーニングバケットmb-hdsで何が処理できる？) ]
+* [2020-04-28](./posts/2020-04-28.md)
+* [2020-03-23](./posts/2020-03-23.md) 
+  * [mbcrusher.com: 1](https://www.mbcrusher.com/ja/jp/お知らせ/news/ロータリースクリーニングバケットmb-hdsで何が処理できる？)
+  * [mbj](https://mb-next-eight.vercel.app/posts/2020-03-23)
 
 
 ## ... posts to transfer
