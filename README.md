@@ -12,10 +12,12 @@ ___
 ## Index of completed transfers
 
 [2020-04-28](./posts/2020-04-28.md)
+[2020-03-23](./posts/2020-03-23.md)
+- [1](https://www.mbcrusher.com/ja/jp/お知らせ/news/ロータリースクリーニングバケットmb-hdsで何が処理できる？)    
 
 ## list of posts to transfer
 
-[1](https://www.mbcrusher.com/ja/jp/お知らせ/news/ロータリースクリーニングバケットmb-hdsで何が処理できる？)
+
 | [2](https://www.mbcrusher.com/ja/jp/お知らせ/news/スキッドステアローダ、ホイールローダ、バックホーローダ-br-最大効果を得るための９つのポイント)
 | [3](https://www.mbcrusher.com/ja/jp/お知らせ/news/mbクラッシャーのツインヘッダー：橋の上や交通量の多い道路での工事に最適)
 | [4](https://www.mbcrusher.com/ja/jp/お知らせ/news/建設副産物：それ、本当に廃棄物？)
