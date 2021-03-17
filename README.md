@@ -11,9 +11,9 @@ ___
 
 ## Index of completed transfers
 
-[2020-04-28](./posts/2020-04-28.md)
-[2020-03-23](./posts/2020-03-23.md)
-- [1](https://www.mbcrusher.com/ja/jp/お知らせ/news/ロータリースクリーニングバケットmb-hdsで何が処理できる？)    
+- [2020-04-28](./posts/2020-04-28.md)
+- [2020-03-23](./posts/2020-03-23.md)
+-- [1](https://www.mbcrusher.com/ja/jp/お知らせ/news/ロータリースクリーニングバケットmb-hdsで何が処理できる？)    
 
 ## list of posts to transfer
 
@@ -137,6 +137,13 @@ full snippet:
 />
 </a>
 ```
+
+### Useful links
+
+- [thumbnail-downloader](https://thumbnail-downloader.com/vimeo/)
+- [vimeo info](https://player.vimeo.com/video/302289235/config)
+
+
 
 ### Example to automatically find the image using VIMEO API:
 
